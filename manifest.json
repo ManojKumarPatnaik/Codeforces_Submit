@@ -1,0 +1,13 @@
+{
+	"name" : "Codeforces submit",
+	"action": {},
+	"manifest_version": 3,
+	"version": "0.1",
+	"description": "Get CF submit on one click",
+	"permissions": [
+		"activeTab"
+		],
+	"background": {
+	"service_worker": "background.js"
+	}
+}
