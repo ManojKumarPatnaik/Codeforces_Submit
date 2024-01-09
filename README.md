@@ -1,5 +1,5 @@
 
-# Codeforces Solution Extension
+# Codeforces Submit Extension
 can submit of a specific problem quickly.
 
 
@@ -9,14 +9,14 @@ can submit of a specific problem quickly.
 
 ## Install Extension
 
-```bash
-  git clone  https://github.com//cf-solution
-  cd cf-solution
+```bash[
+  git clone  https://github.com/ManojKumarPatnaik/Codeforces_Submit
+  cd Codeforces_Submit
 ```
 
 - After cloning, goto Extension settings in your Chrome browser.
 - Enable `developer mode`.
-- Click on `load packed` and open `cf-solution` folder.
+- Click on `load packed` and open `Codeforces_Submit` folder.
 
 
 
